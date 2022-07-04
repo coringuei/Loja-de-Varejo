@@ -1,0 +1,9 @@
+{
+    "name": "qi/lojadevarejo",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
